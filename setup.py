@@ -54,7 +54,7 @@ setup(
     include_package_data=True,
     zip_safe=False,
     install_requires=[
-        'pysaml2==4.6.0',
+        'pysaml2==4.6.1',
         'defusedxml==0.5.0'
         ],
     )
